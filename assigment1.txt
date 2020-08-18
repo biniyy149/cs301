@@ -1,1 +1,29 @@
-biniyam yemane-berhane assignment #1 CSS301
+biniyam yemane-berhane assignment #1 CSS301 answer to Review questions
+
+1) Area of a Lawn------>input; multibly by 0.01 & multiply by 15---->Processing
+   Season cost----->output.
+
+2) a) get the total area of lawn from user. b)multiply the area of the lawn by 0.01 and
+      then by 15 to get season cost. c) display the season cost for the user to see.
+
+3)input = regular hourly wage,regular hours & overtime hours; Processing = multiply regular 
+hours by regular hourly wage to get regular pay; multiply overtime hours by regular hourly 
+wage by 1.5 to get overtime pay; multiply gross pay by 0.15 to get tax; subtract tax from 
+gross pay to get net pay. Output = netPay.
+
+4) a) Get regular hours, overtime hours, and regular hourly wage from the user. b) Multiply 
+regular hours by regular hourly wage to get regular pay. (regPay = regHours * regWage)
+c) Multiply overtime hours by regular hourly wage by 1.5 to get overtime pay. d) Add regular 
+pay and overtime pay to get gross pay. e) Multiply gross pay by 0.15 to get tax. (tax = grossPay * 0.15)
+f) Subtract tax from gross pay to get net pay. (netPay = grossPay - tax) g) Display net pay for the user to see.
+
+5) selection and repetition are control stractures.
+
+6) Selection-->Causes the computer to select on group of statements to execute and another group or groups to skip
+   repetition-->Causes the computer to repeat a group of statements.
+   sequence-->Causes the computer to execute statements in the order they are written in a program, from top to bottom.
+
+
+
+
+
